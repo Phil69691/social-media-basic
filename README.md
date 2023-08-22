@@ -4,6 +4,12 @@ This is how you would add posts to the "social media app"
 
 ![image](https://github.com/Phil69691/social-media-basic/assets/114498774/9fbab29f-368e-4484-bfc4-b65139fb34fe)
 
+
+This is what it would look to view the different posts
+
+![image](https://github.com/Phil69691/social-media-basic/assets/114498774/1d50dd19-fe81-4ce9-8654-c0888af2a39e)
+
+
 Improvements - add pictures
             - add a user interface
             - create the whole thing as a working app
