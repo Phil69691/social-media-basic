@@ -99,9 +99,13 @@ class Program
                     break;
             }
 
-            Console.WriteLine("Press any key to continue...");
-            Console.ReadKey();
+            Console.WriteLine("Press Enter to continue...");
+            Console.ReadLine();
             Console.Clear();
+        }
+    }
+}
+
         }
     }
 }
