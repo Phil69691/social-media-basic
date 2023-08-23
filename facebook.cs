@@ -26,7 +26,7 @@ class Post
 
     public void Display()
     {
-        Console.WriteLine($"--------------------------");
+        Console.WriteLine("--------------------------");
         Console.WriteLine($"Post: {Message}");
         Console.WriteLine($"Likes: {Likes}");
         Console.WriteLine($"Comments ({Comments.Count}):");
@@ -34,7 +34,7 @@ class Post
         {
             Console.WriteLine($"{i + 1}. {Comments[i]}");
         }
-        Console.WriteLine($"--------------------------");
+        Console.WriteLine("--------------------------");
     }
 }
 
@@ -102,10 +102,6 @@ class Program
             Console.WriteLine("Press Enter to continue...");
             Console.ReadLine();
             Console.Clear();
-        }
-    }
-}
-
         }
     }
 }
