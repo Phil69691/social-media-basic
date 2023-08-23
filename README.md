@@ -9,7 +9,7 @@ This is what it would look to view the different posts
 
 ![image](https://github.com/Phil69691/social-media-basic/assets/114498774/1d50dd19-fe81-4ce9-8654-c0888af2a39e)
 
-
+This shows the fact that you can upload two different "posts" and allow people to comment on the posts. Also it displays that you can add more than one post and then you can view all of them in the menu section
 Improvements - add pictures
             - add a user interface
             - create the whole thing as a working app
